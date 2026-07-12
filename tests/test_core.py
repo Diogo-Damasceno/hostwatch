@@ -1,4 +1,4 @@
-from host_audit import core
+from hostwatch import core
 import os, tempfile
 
 def _mk(content):
